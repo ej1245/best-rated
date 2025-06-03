@@ -1,8 +1,0 @@
-User-agent: *
-Disallow: /private/
-# Allow Google to index content embedded in iframes, even if the page has noindex
-User-agent: Googlebot
-Allow: /
-# Add meta tag to individual pages to control indexing
-# <meta name="robots" content="noindex, follow">
-# <meta name="robots" content="noindex, indexifembedded">
