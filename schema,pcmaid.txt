@@ -1,0 +1,81 @@
+the source code below is in my github web page at  https://ej1245.github.io/best-rated/ and embedded on pcm home page:
+
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex, indexifembedded">
+  <link href="https://www.apcmaid.com/" rel="canonical">
+ <style type="text/css">
+  body
+	  <div style="background-color: transparent;">
+  </style> <style type="text/css">
+  body 
+  </style>
+	<title>PC-Maid Computer Repair Services | Rochester MN</title>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "PC-Maid Computer Repair",
+      "image": [
+        "http://img.youtube.com/vi/aU9bq2B8k8A/maxresdefault.jpg"
+       ],
+      "description": "Computer Repair Rochester, MN Locally owned Affordable, Reliable Computer Repair and Services. Everything from start-up issues, virus removal to hard drive replacement. * Tune up * Data Recovery *Laptop Repair * Desktop Repair * Computer Support * HP Computer Repair * Dell Computer Repair * Asus",
+           "sku": "-",
+      "mpn": "-",
+      "brand": {
+        "@type": "Brand",
+        "name": "PC-Maid"
+      },
+       "review": [{
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Jenni J."
+        }
+       }
+     ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "bestRating": 5,
+        "ratingCount": 8
+      },
+           "offers": {
+        "@type": "Offer",
+        "url": "https://www.apcmaid.com/",
+        "priceCurrency": "USD",
+        "price": 99.00,
+        "priceValidUntil": "2034-11-20",
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock"}             
+    }
+  ]
+}
+  }
+        
+      }
+    }
+  }
+}
+      }
+    }
+    </script>
+  </head>
+  <img src="https://raw.githubusercontent.com/ej1245/best-rated/refs/heads/main/three%2Cbest%2Crated.png"  
+	width="250" height="184" alt="Best Rated Rochester, MN"style="display: block; margin: 0 auto;"/><style>
+h2 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+<h2>Best Rated Rochester, MN</h2>
+</html>
+</div>
+</body>
+</html>
